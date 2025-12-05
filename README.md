@@ -4,7 +4,7 @@ This is my first Github Repository
 <br>
 Author: Ali Raza
 <br>
-Program: BS Software Engineering – 1st Semester  
+Program: BS Software Engineering – 1st Semester
 <br>
 Subject: Computer Engineering Technology
 <br>
